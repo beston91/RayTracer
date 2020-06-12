@@ -1,4 +1,7 @@
+# Make a raytracer
+This is a course work from CSC418: computer graphics
 
+# Original readme
 For this assignment just look for TODO in the code.  You shouldn't
 have to change anything else.  In particular, DO NOT change anything
 in main().
